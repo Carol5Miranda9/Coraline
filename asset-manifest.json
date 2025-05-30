@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Coraline/static/css/main.464e137c.css",
-    "main.js": "/Coraline/static/js/main.8f6afa8f.js",
+    "main.js": "/Coraline/static/js/main.4b22b140.js",
     "static/js/453.5f0feb89.chunk.js": "/Coraline/static/js/453.5f0feb89.chunk.js",
     "static/media/STOPMOTION.gif": "/Coraline/static/media/STOPMOTION.876c42cb2db257caa8c0.gif",
     "static/media/gifGATOPRETO.gif": "/Coraline/static/media/gifGATOPRETO.92956bc228e794ef81ee.gif",
@@ -23,11 +23,11 @@
     "static/media/AZULGRADIENTE.jpg": "/Coraline/static/media/AZULGRADIENTE.3e05b621485b8ae4bcae.jpg",
     "index.html": "/Coraline/index.html",
     "main.464e137c.css.map": "/Coraline/static/css/main.464e137c.css.map",
-    "main.8f6afa8f.js.map": "/Coraline/static/js/main.8f6afa8f.js.map",
+    "main.4b22b140.js.map": "/Coraline/static/js/main.4b22b140.js.map",
     "453.5f0feb89.chunk.js.map": "/Coraline/static/js/453.5f0feb89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.464e137c.css",
-    "static/js/main.8f6afa8f.js"
+    "static/js/main.4b22b140.js"
   ]
 }
